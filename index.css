@@ -1,0 +1,25 @@
+#headerh2{
+    color: brown;
+}
+.top-nav ul{
+list-style-type: none;
+text-decoration: none;
+
+}
+.top-nav ul li{
+    text-decoration-line: none;
+}
+/* .bg-color{
+    background-color: rgb(99, 99, 184);
+} */
+.hero{
+    background-size: cover;
+    width: 100%;
+    background-color: aquamarine;
+}
+.bg-color{
+    background-color: cornflowerblue;
+}
+.bgone{
+background-color: aqua;
+}
